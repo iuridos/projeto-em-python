@@ -1,0 +1,35 @@
+# 📚 Atividades em Python - Faculdade ADS
+
+## 💡 Descrição
+Este repositório contém atividades, exercícios e pequenos projetos desenvolvidos em **Python** durante minha graduação em **Análise e Desenvolvimento de Sistemas**.
+
+O objetivo é praticar lógica de programação, estruturas de controle, funções, manipulação de dados, entre outros conceitos essenciais.
+
+---
+
+### 📁 Conteúdo
+
+- `calculadora.py` → Operações básicas com funções
+- `atividade1.py` → Exemplo: uso de condicionais e operadores
+- `atividade2.py` → Estruturas de repetição com `for` e `while`
+- `atividade3.py` → Funções, listas e manipulação de strings
+- (adicione aqui conforme você for criando novos arquivos)
+
+---
+
+### 🚀 Tecnologias utilizadas
+
+- Pycharm
+- VS Code / IDLE
+
+---
+
+### 🎯 Objetivo
+Consolidar os aprendizados das aulas de lógica e programação com exercícios práticos.
+
+---
+
+### 👨‍💻 Autor
+**Iuri Pereira dos Santos**  
+Email: iuridos2020@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/iuri-pereira-dos-santos-853483113/)
