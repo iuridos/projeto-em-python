@@ -5,17 +5,6 @@ Este repositório contém atividades, exercícios e pequenos projetos desenvolvi
 
 O objetivo é praticar lógica de programação, estruturas de controle, funções, manipulação de dados, entre outros conceitos essenciais.
 
----
-
-### 📁 Conteúdo
-
-- `calculadora.py` → Operações básicas com funções
-- `atividade1.py` → Exemplo: uso de condicionais e operadores
-- `atividade2.py` → Estruturas de repetição com `for` e `while`
-- `atividade3.py` → Funções, listas e manipulação de strings
-- (adicione aqui conforme você for criando novos arquivos)
-
----
 
 ### 🚀 Tecnologias utilizadas
 
