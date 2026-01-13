@@ -1,24 +1,56 @@
-# 📚 Atividades em Python - Faculdade ADS
+# 🐍 Projeto em Python
 
-## 💡 Descrição
-Este repositório contém atividades, exercícios e pequenos projetos desenvolvidos em **Python** durante minha graduação em **Análise e Desenvolvimento de Sistemas**.
+Repositório com **exercícios, atividades práticas e pequenos projetos em Python**, desenvolvido com foco no aprendizado contínuo e na construção de uma **base sólida para atuação como desenvolvedor júnior**.
 
-O objetivo é praticar lógica de programação, estruturas de controle, funções, manipulação de dados, entre outros conceitos essenciais.
-
-
-### 🚀 Tecnologias utilizadas
-
-- Pycharm
-- VS Code / IDLE
+Os códigos aqui apresentados refletem minha evolução em lógica de programação e resolução de problemas, utilizando Python como linguagem principal.
 
 ---
 
-### 🎯 Objetivo
-Consolidar os aprendizados das aulas de lógica e programação com exercícios práticos.
+## 📌 Sobre o Repositório
+
+Este projeto reúne atividades realizadas durante a graduação em **Análise e Desenvolvimento de Sistemas**, além de práticas complementares voltadas ao desenvolvimento de habilidades essenciais para o mercado.
+
+O foco está em **clareza de código**, **organização** e **boas práticas iniciais**, sempre buscando melhorar a legibilidade e a lógica das soluções.
 
 ---
 
-### 👨‍💻 Autor
-**Iuri Pereira dos Santos**  
-Email: iuridos2020@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/iuri-pereira-dos-santos-853483113/)
+## 🧠 Conhecimentos Aplicados
+
+- Lógica de programação  
+- Variáveis e tipos de dados  
+- Estruturas condicionais  
+- Laços de repetição  
+- Funções  
+- Entrada e saída de dados  
+- Organização e leitura de código  
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **Python**
+- **Jupyter Notebook**
+- **VS Code**
+
+---
+
+## 🎯 Objetivo Profissional
+
+Este repositório faz parte do meu **portfólio como desenvolvedor júnior**, demonstrando minha capacidade de aprender novas tecnologias, resolver problemas de forma estruturada e evoluir continuamente na programação.
+
+---
+
+## 📈 Próximos Passos
+
+- Refatorar exercícios para código mais limpo e reutilizável  
+- Criar pequenos projetos práticos em Python  
+- Aplicar boas práticas como funções bem definidas e comentários objetivos  
+- Evoluir para projetos com maior complexidade  
+
+---
+
+## 👤 Autor
+
+**Iuri Pereira**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+Desenvolvedor em formação com foco em vagas júnior 🚀
